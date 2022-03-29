@@ -15,7 +15,65 @@ In this paper, we use topological data analysis techniques to construct a suitab
 @inproceedings{ML4ITS/MelodiaL21,
   author    = {Luciano Melodia and
                Richard Lenz},
-  editor    = {Kamp M. et al.},
+  editor    = {Michael Kamp and
+               Irena Koprinska and
+               Adrien Bibal and
+               Tassadit Bouadi and
+               Beno{\^{\i}}t Fr{\'{e}}nay and
+               Luis Gal{\'{a}}rraga and
+               Jos{\'{e}} Oramas and
+               Linara Adilova and
+               Yamuna Krishnamurthy and
+               Bo Kang and
+               Christine Largeron and
+               Jefrey Lijffijt and
+               Tiphaine Viard and
+               Pascal Welke and
+               Massimiliano Ruocco and
+               Erlend Aune and
+               Claudio Gallicchio and
+               Gregor Schiele and
+               Franz Pernkopf and
+               Michaela Blott and
+               Holger Fr{\"{o}}ning and
+               G{\"{u}}nther Schindler and
+               Riccardo Guidotti and
+               Anna Monreale and
+               Salvatore Rinzivillo and
+               Przemyslaw Biecek and
+               Eirini Ntoutsi and
+               Mykola Pechenizkiy and
+               Bodo Rosenhahn and
+               Christopher L. Buckley and
+               Daniela Cialfi and
+               Pablo Lanillos and
+               Maxwell Ramstead and
+               Tim Verbelen and
+               Pedro M. Ferreira and
+               Giuseppina Andresini and
+               Donato Malerba and
+               Ib{\'{e}}ria Medeiros and
+               Philippe Fournier{-}Viger and
+               M. Saqib Nawaz and
+               Sebasti{\'{a}}n Ventura and
+               Meng Sun and
+               Min Zhou and
+               Valerio Bitetta and
+               Ilaria Bordino and
+               Andrea Ferretti and
+               Francesco Gullo and
+               Giovanni Ponti and
+               Lorenzo Severini and
+               Rita P. Ribeiro and
+               Jo{\~{a}}o Gama and
+               Ricard Gavald{\`{a}} and
+               Lee A. D. Cooper and
+               Naghmeh Ghazaleh and
+               Jonas Richiardi and
+               Damian Roqueiro and
+               Diego Saldana Miranda and
+               Konstantinos Sechidis and
+               Guilherme Gra{\c{c}}a},
   title     = {Homological Time Series Analysis of Sensor Signals from Power Plants},
   booktitle = {Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2021},
   series    = {Communications in Computer and Information Science},
